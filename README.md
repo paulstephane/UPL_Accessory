@@ -13,7 +13,7 @@ Music files must comply with the following formats:
 - id3v2 tags should contain at minimum the artist, album, title, track number
 - first file of each folder can contain an image (album cover art, preferably in small format)
 
-The program available in this repository is designed to *assist* in copying your music files to USB keys in a format compatible with the use of the UPL96ETL. It is written with Livecode community edition (open source), and runs on **Windows** but could be adapted to other operating systems.
+The program in this repository is designed to *assist* in copying your music files to USB keys in a format compatible with the use of the UPL96ETL. It is written with Livecode community edition (open source), and runs on **Windows** but could be adapted to other operating systems.
 
 
 ## Prerequisites
@@ -30,7 +30,7 @@ On startup, the settings card is displayed:
 
 ![Screenshot](Card2.jpg)
 
-- click on "List Drives" to refresh the list of removeable media, and select one in the list
+- click on "List Drives" to refresh the list of removeable media and select one in the list
 - optionally locate the database file "upl96etl.db" by clicking on "UPL Database". 
 - locate the program file "Kid3-cli.exe" on your computer by clicking on "Kid3-cli"
 - locate the program "CoreConverter.exe" on your computer by clicking on "CoreConverter"
@@ -46,9 +46,9 @@ If the database file is entered above, the USB key will be removed from the data
 
 Click on the second icon (folder with + sign) to **add a new folder** to the USB key.
 
-To **add tracks**, from your Windows file explorer:
+To **add tracks**:
 
-- drag a folder containing your music to the box containing the track list
+- drag a folder with your music from the Windows file explorer into the track list box
 - or alternatively drag a playlist file (.M3U)
 
 Folders are recursively scanned to display all WAV and FLAC files. A maximum of 99 tracks can be copied to each folder.
