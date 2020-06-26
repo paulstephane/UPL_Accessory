@@ -37,10 +37,10 @@ On startup, the settings card is displayed:
 
 Only removeable drives with a label are displayed. The program will only update the content of these drives if there is a file "id.txt" in the root.
 
-Click on "OK" to display the second card.
-
 Note: the database file is used by the ECDesigns application (https://www.ecdesigns.nl/en/blog/uplremote-software) to display the content of the keys.
 If the database file is entered above, the USB key will be removed from the database when adding new folders - this will trigger an automatic update of the database when the key is inserted into the UPL96ETL.
+
+Click on "OK" to display the second card.
 
 ![Screenshot](Card10.jpg)
 
