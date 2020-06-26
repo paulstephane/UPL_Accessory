@@ -28,7 +28,7 @@ https://www.dbpoweramp.com/dmc.htm
 
 Download the following zip file and extract it to your computer. Run the application "Launcher.exe"
 
-**[Download](https://storage.cloud.google.com/cloudplayer/UPL_Accessory/UPL%20Accessory.zip)**
+**[UPL Accessory.zip](https://storage.cloud.google.com/cloudplayer/UPL_Accessory/UPL%20Accessory.zip)**
 
 ## Operation
 
