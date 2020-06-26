@@ -1,5 +1,5 @@
 
-## Objective
+## Purpose
 
 The **UPL96ETL** by ECDesigns is an audio source that reads music files stored on USB keys and provides high fidelity:
 
@@ -7,7 +7,9 @@ https://www.ecdesigns.nl/en/blog/upl96etl
 
 The program available in this repository is designed to assist in copying your music files to USB keys in a format compatible with the use of the UPL96ETL. It is written with Livecode community edition, and the source files are available here so that features can be added if required. It has only been tested on Windows.
 
-It requires installing Kid3 and dBpoweramp Music Converter:
+## Prerequisites
+
+The  the following programs must be installed: Kid3 (music tagger) and dBpoweramp Music Converter (audio file conversion)
 
 https://kid3.kde.org/
     
