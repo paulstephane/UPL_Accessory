@@ -13,9 +13,7 @@ Music files must comply with the following formats:
 - id3v2 tags should contain at minimum the artist, album, title, track number
 - first file of each folder can contain an image (album cover art, preferably in small format)
 
-The program available in this repository is designed to *assist* in copying your music files to USB keys in a format compatible with the use of the UPL96ETL. It is written with Livecode community edition (open source).
-
-It is written for **Windows** but could be adapted to other operating systems.
+The program available in this repository is designed to *assist* in copying your music files to USB keys in a format compatible with the use of the UPL96ETL. It is written with Livecode community edition (open source), and runs on **Windows** but could be adapted to other operating systems.
 
 
 ## Prerequisites
@@ -44,7 +42,24 @@ If the database file is indicated above, the USB key will be removed from the da
 
 ![Screenshot](Card1.jpg)
 
+Click on the second icon (folder with + sign) to add a new folder to the USB key. The folder will be automatically numbered incrementally.
 
+To add tracks, from your Windows file explorer:
 
+- drag a folder containing your music to the box containing the track list
+- or alternatively drag a playlist file (.M3U)
+
+A folder will be recursively scanned to display all WAV and FLAC files. A maximum of 99 tracks can be copied to each folder.
+
+If the folder contains a file "folder.jpg" in its root, the image will be automatically resized to 300x300 pixels and displayed in the thumbnails box. Alternatively, an image can be dragged from the file explorer into the thumbnails box.
+
+The new folder will be automatically named with the name of the windows folder or the name of the playlist file.
+
+Click on the third icon (folder with disk) to save the files to the USB key. The files are converted to WAV, and tags are added:
+
+- artist is either the artist tag or the album artist tag of the source file, or "artist" if the artist and album artist tags are empty
+- album is either the album tag of the source file, or "album" if the album tag is empty
+- title is either the title tag of the original file, or the filename if no title tag is defined
+- Tracknumbers are incremented sequentially in the order of the files displayed
 
 
