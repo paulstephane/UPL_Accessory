@@ -42,7 +42,7 @@ If the database file is entered above, the USB key will be removed from the data
 
 ![Screenshot](Card10.jpg)
 
-**Existing folders with a 2 digit prefix (01 to 99) in the USB key are automatically re-numbered sequentially from 01 to 99. Other folders are left unchanged.**
+**Existing folders with a 2 digit prefix (01 to 99) are automatically re-numbered sequentially from 01 to 99 each time the content of the key is displayed (or the Refresh button is clicked). Other folders are left unchanged.**
 
 Click on the second icon (folder with + sign) to **add a new folder** to the USB key.
 
