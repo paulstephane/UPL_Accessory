@@ -28,14 +28,17 @@ https://www.dbpoweramp.com/dmc.htm
 
 ## Operation
 
-The livecode stack contains only two cards. On startup, the settings card is displayed:
+On startup, the settings card is displayed:
 
 - click on "List Drives" to refresh the list of removeable media, and select one in the list
-- optionally locate the database file "upl96etl.db" that is used by the ECDesigns application to browse and play USB keys, by clicking on "UPL Database"
+- optionally locate the database file "upl96etl.db" by clicking on "UPL Database". 
 - locate the program file "Kid3-cli.exe" on your computer by clicking on "Kid3-cli"
 - locate the program "CoreConverter.exe" on your computer by clicking on "CoreConverter"
 
-Click on "OK" to display the second card:
+Click on "OK" to display the second card.
+
+Note: the database file is updated by the ECDesigns application (https://www.ecdesigns.nl/en/blog/uplremote-software) when inserting keys into the UPL96ETL.
+If the database file is indicated above, the USB key will be removed from the database when adding new folders, and will trigger an automatic update when inserting it into the UPL96ETL.
 
 
 
