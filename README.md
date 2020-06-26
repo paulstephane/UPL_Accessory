@@ -30,6 +30,9 @@ https://www.dbpoweramp.com/dmc.htm
 
 On startup, the settings card is displayed:
 
+
+
+
 - click on "List Drives" to refresh the list of removeable media, and select one in the list
 - optionally locate the database file "upl96etl.db" by clicking on "UPL Database". 
 - locate the program file "Kid3-cli.exe" on your computer by clicking on "Kid3-cli"
