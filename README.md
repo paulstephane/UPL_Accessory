@@ -28,7 +28,7 @@ https://www.dbpoweramp.com/dmc.htm
 
 On startup, the settings card is displayed:
 
-![Screenshot](Card2.jpg)
+![Screenshot](Card20.jpg)
 
 - click on "List Drives" to refresh the list of removeable media and select one in the list
 - optionally locate the database file "upl96etl.db" by clicking on "UPL Database". 
