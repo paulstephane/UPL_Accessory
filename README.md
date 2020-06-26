@@ -1,5 +1,4 @@
 
-![Screenshot](Logo.jpg)
 
 ## Purpose
 
