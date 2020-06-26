@@ -40,7 +40,7 @@ Click on "OK" to display the second card.
 Note: the database file is updated by the ECDesigns application (https://www.ecdesigns.nl/en/blog/uplremote-software) when inserting keys into the UPL96ETL.
 If the database file is indicated above, the USB key will be removed from the database when adding new folders, and will trigger an automatic update when inserting it into the UPL96ETL.
 
-![Screenshot](Card1.jpg)
+![Screenshot](Card10.jpg)
 
 Click on the second icon (folder with + sign) to **add a new folder** to the USB key. The folder will be automatically numbered incrementally.
 
