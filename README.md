@@ -1,11 +1,11 @@
 
 ## Purpose
 
-The **UPL96ETL** by ECDesigns is an audio source that reads music files stored on USB keys and provides high fidelity:
+The **UPL96ETL** by ECDesigns is a high fidelity audio source that plays music files stored on USB keys.
 
 https://www.ecdesigns.nl/en/blog/upl96etl
 
-Music files stored on USB keys must comply with the following formats:
+Music files must comply with the following formats:
 
 - files are stored in folders whose first two digits must be 01 to 99
 - file names must also start with 01 to 99
@@ -13,7 +13,10 @@ Music files stored on USB keys must comply with the following formats:
 - id3v2 tags should contain at minimum the artist, album, title, track number
 - first file of each folder can contain an image (album cover art, preferably in small format)
 
-The program available in this repository is designed to *assist* in copying your music files to USB keys in a format compatible with the use of the UPL96ETL. It is written with Livecode community edition, and the source files are available here so that features can be added if required. It has only been tested on Windows.
+The program available in this repository is designed to *assist* in copying your music files to USB keys in a format compatible with the use of the UPL96ETL. It is written with Livecode community edition (open source).
+
+It has only been tested on Windows.
+
 
 ## Prerequisites
 
