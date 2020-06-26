@@ -74,6 +74,9 @@ Click on the second icon (folder with disk) to **save the files** to the USB key
 
 Leading and trailing whitespaces are removed from the tags.
 
+The resized image is also copied to the corresponding USB drive folder. This is not useful for the operation of the UPL96ETL, but allows displaying the artwork of each folder when running the ULP Accessory. 
+
+
 Any error messages during the conversion will interrupt the copy. Error messages are displayed in the message box at the bottom of the screen.
 
 Removing or renaming a folder must be done in the file explorer.
