@@ -1,4 +1,6 @@
 
+![Screenshot](Logo.jpg)
+
 ## Purpose
 
 The **UPL96ETL** by ECDesigns is a high fidelity audio source that plays music files stored on USB keys.
