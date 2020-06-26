@@ -68,8 +68,8 @@ The new folder will be automatically renamed to correspond to the windows folder
 
 Click on the second icon (folder with disk) to **save the files** to the USB key. The files are converted to WAV, and tags are added:
 
-- **artist** is copied from the artist tag or the album artist tag (if the artist tag is empty) of the source file. If both the artist and album artist tags are empty in the sourcefile, the value "artist" will be used
-- **album** is copied from the album tag of the source file, or "album" if the album tag is empty
+- **artist** is copied from the artist tag or the album artist tag (if the artist tag is empty) of the source file. If both the artist and album artist tags are empty in the sourcefile, then the tracks copied on the USB key will contain the value "artist" 
+- **album** is copied from the album tag of the source file - if there is no album tag, then the tracks copied on the USB key will contain the value "album" 
 - **title** is either copied from the title tag of the original file, or the filename if no title tag is defined
 - **tracknumbers** are incremented sequentially in the order of the files displayed
 
