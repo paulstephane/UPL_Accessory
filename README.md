@@ -60,6 +60,14 @@ Click on the third icon (folder with disk) to save the files to the USB key. The
 - artist is either the artist tag or the album artist tag of the source file, or "artist" if the artist and album artist tags are empty
 - album is either the album tag of the source file, or "album" if the album tag is empty
 - title is either the title tag of the original file, or the filename if no title tag is defined
-- Tracknumbers are incremented sequentially in the order of the files displayed
+- tracknumbers are incremented sequentially in the order of the files displayed
+
+Any error messages during the conversion and copy will be displayed in the message box at the bottom of the screen.
+
+Removing or renaming a folder must be done in the file explorer.
+
+The list of folders can be "refreshed" by clicking on the third icon. Any tracks or images added but not yet saved will be lost.
+
+The settings screen can be accessed by clicking on the fourth icon.
 
 
