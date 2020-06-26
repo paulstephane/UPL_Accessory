@@ -46,7 +46,7 @@ Click on "OK" to display the second card.
 
 **Existing folders with a 2 digit prefix (01 to 99) are automatically re-numbered sequentially from 01 to 99 each time the content of the key is displayed (or the Refresh button is clicked). Other folders are left unchanged.**
 
-Click on the second icon (folder with + sign) to **add a new folder** to the USB key.
+Click on the first icon (folder with + sign) to **add a new folder** to the USB key.
 
 To **add tracks**:
 
@@ -59,7 +59,7 @@ If the folder contains a file "folder.jpg" in its root, the image will be automa
 
 The new folder will be automatically renamed to correspond to the windows foldername or the playlist filename.
 
-Click on the third icon (folder with disk) to **save the files** to the USB key. The files are converted to WAV, and tags are added:
+Click on the second icon (folder with disk) to **save the files** to the USB key. The files are converted to WAV, and tags are added:
 
 - **artist** is copied from the artist tag or the album artist tag (if the artist tag is empty) of the source file. If both the artist and album artist tags are empty in the sourcefile, the value "artist" will be used
 - **album** is copied from the album tag of the source file, or "album" if the album tag is empty
