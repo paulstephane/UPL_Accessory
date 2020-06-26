@@ -35,6 +35,8 @@ On startup, the settings card is displayed:
 - locate the program file "Kid3-cli.exe" on your computer by clicking on "Kid3-cli"
 - locate the program "CoreConverter.exe" on your computer by clicking on "CoreConverter"
 
+Only removeable drives with a label are displayed. The program will only update the content of these drives if there is a file "id.txt" in the root.
+
 Click on "OK" to display the second card.
 
 Note: the database file is used by the ECDesigns application (https://www.ecdesigns.nl/en/blog/uplremote-software) to display the content of the keys.
