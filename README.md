@@ -10,7 +10,7 @@ The program available in this repository is designed to assist in copying your m
 It requires installing Kid3 and dBpoweramp Music Converter:
 
 https://kid3.kde.org/
-<!>
+    
 https://www.dbpoweramp.com/dmc.htm
 
 ## Operation
