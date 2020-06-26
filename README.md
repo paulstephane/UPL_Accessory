@@ -42,9 +42,9 @@ If the database file is indicated above, the USB key will be removed from the da
 
 ![Screenshot](Card1.jpg)
 
-Click on the second icon (folder with + sign) to add a new folder to the USB key. The folder will be automatically numbered incrementally.
+Click on the second icon (folder with + sign) to **add a new folder** to the USB key. The folder will be automatically numbered incrementally.
 
-To add tracks, from your Windows file explorer:
+To **add tracks**, from your Windows file explorer:
 
 - drag a folder containing your music to the box containing the track list
 - or alternatively drag a playlist file (.M3U)
@@ -53,20 +53,22 @@ A folder will be recursively scanned to display all WAV and FLAC files. A maximu
 
 If the folder contains a file "folder.jpg" in its root, the image will be automatically resized to 300x300 pixels and displayed in the thumbnails box. Alternatively, an image can be dragged from the file explorer into the thumbnails box.
 
-The new folder will be automatically named with the name of the windows folder or the name of the playlist file.
+The new folder will be automatically renamed to correspond to the windows foldername or the playlist filename.
 
-Click on the third icon (folder with disk) to save the files to the USB key. The files are converted to WAV, and tags are added:
+Click on the third icon (folder with disk) to **save the files** to the USB key. The files are converted to WAV, and tags are added:
 
-- artist is either the artist tag or the album artist tag of the source file, or "artist" if the artist and album artist tags are empty
-- album is either the album tag of the source file, or "album" if the album tag is empty
-- title is either the title tag of the original file, or the filename if no title tag is defined
-- tracknumbers are incremented sequentially in the order of the files displayed
+- **artist** is copied from the artist tag or the album artist tag (if the artist tag is empty) of the source file. If both the artist and album artist tags are empty in the sourcefile, the value "artist" will be used
+- **album** is compied from the album tag of the source file, or "album" if the album tag is empty
+- **title** is either the title tag of the original file, or the filename if no title tag is defined
+- **tracknumbers** are incremented sequentially in the order of the files displayed
+
+Leading and trailing whitespaces are removed from the tags.
 
 Any error messages during the conversion and copy will be displayed in the message box at the bottom of the screen.
 
 Removing or renaming a folder must be done in the file explorer.
 
-The list of folders can be "refreshed" by clicking on the third icon. Any tracks or images added but not yet saved will be lost.
+The list of folders can be **refreshed** by clicking on the third icon. Any tracks or images added but not yet saved will be lost.
 
 The settings screen can be accessed by clicking on the fourth icon.
 
