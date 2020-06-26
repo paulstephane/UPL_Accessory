@@ -15,7 +15,7 @@ Music files must comply with the following formats:
 
 The program available in this repository is designed to *assist* in copying your music files to USB keys in a format compatible with the use of the UPL96ETL. It is written with Livecode community edition (open source).
 
-It has only been tested on Windows.
+It is written for **Windows** but could be adapted to other operating systems.
 
 
 ## Prerequisites
