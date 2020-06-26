@@ -18,7 +18,7 @@ The program in this repository is designed to *assist* in copying your music fil
 
 ## Prerequisites
 
-The  the following programs must be installed: Kid3 (music tagger) and dBpoweramp Music Converter (audio file conversion)
+The following programs must be installed on your computer: Kid3 (music tagger) and dBpoweramp Music Converter (audio file conversion)
 
 https://kid3.kde.org/
     
@@ -66,7 +66,7 @@ Click on the third icon (folder with disk) to **save the files** to the USB key.
 
 Leading and trailing whitespaces are removed from the tags.
 
-Any error messages during the conversion and copy will be displayed in the message box at the bottom of the screen.
+Any error messages during the conversion will interrupt the copy. Error messages are displayed in the message box at the bottom of the screen.
 
 Removing or renaming a folder must be done in the file explorer.
 
