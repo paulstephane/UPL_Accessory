@@ -42,14 +42,16 @@ If the database file is entered above, the USB key will be removed from the data
 
 ![Screenshot](Card10.jpg)
 
-Click on the second icon (folder with + sign) to **add a new folder** to the USB key. The folder will be automatically numbered incrementally.
+**Existing folders with a 2 digit prefix (01 to 99) in the USB key are automatically re-numbered sequentially from 01 to 99. Other folders are left unchanged.**
+
+Click on the second icon (folder with + sign) to **add a new folder** to the USB key.
 
 To **add tracks**, from your Windows file explorer:
 
 - drag a folder containing your music to the box containing the track list
 - or alternatively drag a playlist file (.M3U)
 
-A folder will be recursively scanned to display all WAV and FLAC files. A maximum of 99 tracks can be copied to each folder.
+Folders are recursively scanned to display all WAV and FLAC files. A maximum of 99 tracks can be copied to each folder.
 
 If the folder contains a file "folder.jpg" in its root, the image will be automatically resized to 300x300 pixels and displayed in the thumbnails box. Alternatively, an image can be dragged from the file explorer into the thumbnails box.
 
