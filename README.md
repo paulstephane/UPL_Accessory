@@ -15,6 +15,11 @@ https://www.dbpoweramp.com/dmc.htm
 
 ## Operation
 
+The livecode stack contains only two cards. On startup, the settings card is displayed:
+
+
+
+
 Music files copied to USB keys must comply with the following formats:
 
 - files are stored in folders whose first two digits must be 01 to 99
