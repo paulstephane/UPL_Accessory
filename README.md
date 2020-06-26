@@ -15,7 +15,6 @@ Music files must comply with the following formats:
 
 The program in this repository is designed to *assist* in copying your music files to USB keys in a format compatible with the use of the UPL96ETL. It is written with Livecode community edition (open source), and runs on **Windows** but could be adapted to other operating systems.
 
-
 ## Prerequisites
 
 The following programs must be installed on your computer: Kid3 (music tagger) and dBpoweramp Music Converter (audio file conversion)
@@ -23,6 +22,12 @@ The following programs must be installed on your computer: Kid3 (music tagger) a
 https://kid3.kde.org/
     
 https://www.dbpoweramp.com/dmc.htm
+
+
+##Download
+
+Download the following zip file and extract it to your computer. Run the application "Launcher.exe"
+https://storage.cloud.google.com/cloudplayer/UPL_Accessory/UPL%20Accessory.zip
 
 ## Operation
 
