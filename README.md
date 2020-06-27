@@ -75,17 +75,18 @@ Click on the second icon (folder with disk) to **save the files** to the USB key
 
 Leading and trailing whitespaces are removed from the tags.
 
-The resized image is copied into the tags of the first track of each folder. It is also copied to the corresponding USB drive folder, which is not useful for the operation of the UPL96ETL but allows displaying the artwork of each folder when running the ULP Accessory. 
+The resized image is copied into the tags of the first track of each folder (avoid lengthy updates when the USB key is read in ECDesign's application).
 
+The image is also copied to the corresponding USB drive folder, which is not useful for the operation of the UPL96ETL but allows displaying the artwork of each folder when running the ULP Accessory. 
 
 Any error messages during the conversion will interrupt the copy. Error messages are displayed in the message box at the bottom of the screen.
-
-Removing or renaming a folder must be done in the file explorer.
 
 The list of folders can be **refreshed** by clicking on the third icon. Any tracks or images added but not yet saved will be lost.
 
 The fourth icon can be used to sort and rename the folders of the UBS Key **alphabetically**.
 
 The **settings** screen can be accessed by clicking on the last icon.
+
+Removing or renaming a folder must be done in the file explorer.
 
 Happy Listening.
