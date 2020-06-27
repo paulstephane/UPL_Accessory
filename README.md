@@ -60,7 +60,7 @@ To **add tracks**:
 - drag a folder with your music from the Windows file explorer into the track list box
 - or alternatively drag a playlist file (.M3U)
 
-Folders are recursively scanned to display all WAV and FLAC files. A maximum of 99 tracks can be copied to each folder.
+Folders are recursively scanned to display music files. A maximum of 99 tracks can be copied to each folder. The following file extensions are taken into account: flac,wav,aiff,aif,m4a,ape,ogg.
 
 If the folder contains a file "folder.jpg" in its root, the image will be automatically resized to 300x300 pixels and displayed in the thumbnails box. Alternatively, an image can be dragged from the file explorer into the thumbnails box.
 
