@@ -83,7 +83,8 @@ Any error messages during the conversion will interrupt the copy. Error messages
 Removing or renaming a folder must be done in the file explorer.
 
 The list of folders can be **refreshed** by clicking on the third icon. Any tracks or images added but not yet saved will be lost.
+The fourt icon can be used to sort and rename the folders of the UBS Key **alphabetically**.
 
-The settings screen can be accessed by clicking on the fourth icon.
+The settings screen can be accessed by clicking on the last icon.
 
 Happy Listening.
