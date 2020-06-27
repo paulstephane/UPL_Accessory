@@ -49,7 +49,7 @@ If the database file is entered above, the USB key will be removed from the data
 
 Click on "OK" to display the second card.
 
-![Screenshot](Card10.jpg)
+![Screenshot](Card02.jpg)
 
 **Existing folders with a 2 digit prefix (01 to 99) are automatically re-numbered sequentially from 01 to 99 each time the content of the key is displayed (or the Refresh button is clicked). Other folders are left unchanged.**
 
