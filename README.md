@@ -53,7 +53,7 @@ Click on "OK" to display the second card.
 
 **Existing folders with a 2 digit prefix (01 to 99) are automatically re-numbered sequentially from 01 to 99 each time the content of the key is displayed (or the Refresh button is clicked). Other folders are left unchanged.**
 
-The last folder of the USB key is displayed. You can display other folder contents using the pull down menu.
+Folder (01 to 99) content can be displayed using the pull-down menu. The last folder of the USB key is displayed initially.
 
 Click on the first icon (folder with + sign) to **add a new folder** to the USB key.
 
