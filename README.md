@@ -42,10 +42,10 @@ On startup, the settings card is displayed:
 - locate the program file "Kid3-cli.exe" on your computer by clicking on "Kid3-cli"
 - locate the program "CoreConverter.exe" on your computer by clicking on "CoreConverter"
 
-Only removeable drives with a label are displayed. The program will only update the content of these drives if there is a file "id.txt" in the root.
+Only removeable drives with a label are displayed. The program will only update drives that contain a file "id.txt" in the root folder.
 
-Note: the database file is used by the ECDesigns application (https://www.ecdesigns.nl/en/blog/uplremote-software) to display the content of the keys.
-If the database file is entered above, the USB key will be removed from the database when adding new folders - this will trigger an automatic update of the database when the key is inserted into the UPL96ETL.
+Note: the database file is used by the ECDesigns application to display the content of the keys (https://www.ecdesigns.nl/en/blog/uplremote-software).
+If the database file is entered above, the USB key will be removed from the database when adding new folders - this will trigger an automatic update of the database when the key is inserted back into the UPL96ETL.
 
 Click on "OK" to display the second card.
 
@@ -75,7 +75,7 @@ Click on the second icon (folder with disk) to **save the files** to the USB key
 
 Leading and trailing whitespaces are removed from the tags.
 
-The resized image is also copied to the corresponding USB drive folder. This is not useful for the operation of the UPL96ETL, but allows displaying the artwork of each folder when running the ULP Accessory. 
+The resized image is copied into the tags are the first track of each folder. It is also copied to the corresponding USB drive folder, which is not useful for the operation of the UPL96ETL but allows displaying the artwork of each folder when running the ULP Accessory. 
 
 
 Any error messages during the conversion will interrupt the copy. Error messages are displayed in the message box at the bottom of the screen.
