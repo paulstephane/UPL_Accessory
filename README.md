@@ -75,7 +75,7 @@ Click on the second icon (folder with disk) to **save the files** to the USB key
 
 Leading and trailing whitespaces are removed from the tags.
 
-The resized image is copied into the tags of the first track of each folder (avoid lengthy updates when the USB key is read in ECDesign's application).
+The resized image is only copied into the tags of the first track of each folder, thereby ensuring that the USB key will be read quickly when inserting it back in the UPL96ETL.
 
 The image is also copied to the corresponding USB drive folder, which is not useful for the operation of the UPL96ETL but allows displaying the artwork of each folder when running the ULP Accessory. 
 
