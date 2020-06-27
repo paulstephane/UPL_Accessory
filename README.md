@@ -12,7 +12,7 @@ Music files must comply with the following formats:
 - file names must also start with 01 to 99
 - files must be in WAV format, with id3v2 tags only
 - id3v2 tags should contain at minimum the artist, album, title, track number
-- first file of each folder can contain an image (album cover art, preferably in small size)
+- tags can contain album cover art, preferably in small size to avoid lengthy updates when a key is inserted in the player
 
 The program in this repository is designed to *assist* in copying your music files to USB keys in a format compatible with the use of the UPL96ETL. It is written with Livecode community edition (open source), and runs on **Windows** but could be adapted to other operating systems.
 
@@ -75,7 +75,7 @@ Click on the second icon (folder with disk) to **save the files** to the USB key
 
 Leading and trailing whitespaces are removed from the tags.
 
-The resized image is copied into the tags are the first track of each folder. It is also copied to the corresponding USB drive folder, which is not useful for the operation of the UPL96ETL but allows displaying the artwork of each folder when running the ULP Accessory. 
+The resized image is copied into the tags of the first track of each folder. It is also copied to the corresponding USB drive folder, which is not useful for the operation of the UPL96ETL but allows displaying the artwork of each folder when running the ULP Accessory. 
 
 
 Any error messages during the conversion will interrupt the copy. Error messages are displayed in the message box at the bottom of the screen.
