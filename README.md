@@ -1,4 +1,4 @@
-![Screenshot](Icon.png)
+![Screenshot](icon.png)
 
 ## Purpose
 
