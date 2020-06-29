@@ -66,8 +66,6 @@ Folders are recursively scanned to display music files. A maximum of 99 tracks c
 
 If the folder contains a file "folder.jpg" in its root, the image will be automatically resized to 300x300 pixels and displayed in the thumbnails box. Alternatively, an image can be dragged from the file explorer into the thumbnails box.
 
-The new folder will be automatically renamed to correspond to the windows foldername or the playlist filename.
-
 Click on the second icon (folder with disk) to **save the files** to the USB key. 
 
 The files are converted to WAV, and tags are added:
